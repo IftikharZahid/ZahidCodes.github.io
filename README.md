@@ -5,7 +5,7 @@ Welcome to my personal portfolio! I’m a CSE graduate at Bangladesh University 
 I have experience in Mobile App, low-code platforms, Python and technology communities.
 
 ## Skills
--Mobile Application
+- Mobile Application
 - Cloud Computing
 - GitHub & Git
 - Microsoft Power Platform
